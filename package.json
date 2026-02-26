@@ -12,5 +12,24 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "author": "naticzka",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.18.0"
+  },
+  "description": "a simple color package based on typescript enums",
+  "homepage": "https://github.com/itsmenatika/necolors",
+  "bugs": {
+    "url": "https://github.com/itsmenatika/necolors/issues",
+    "email": "itsmenatika@gmail.com"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/itsmenatika"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsmenatika/necolors.git"
+  }
 }
