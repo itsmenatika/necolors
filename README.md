@@ -6,10 +6,10 @@ It's a simple system that was started by jslogsystem and allows to quickly use c
 ## support
 
 it supports:
-    * esm
-    * cjs
-    * typescript colors
-    * normal javascript
+* esm
+* cjs
+* typescript colors
+* normal javascript
 
 
 ## what it exports?
